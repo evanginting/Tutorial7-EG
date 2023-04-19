@@ -1,3 +1,3 @@
 # Tutorial7-EG
 
-Just testing a git command.
+Just testing a git command. Test.
